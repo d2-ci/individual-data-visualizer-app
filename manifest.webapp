@@ -1,0 +1,24 @@
+{
+  "appType": "APP",
+  "short_name": "individual-data-visualizer",
+  "name": "Individual Data Visualizer",
+  "description": "Individual data visualizer app and plugin",
+  "version": "101.0.0",
+  "core_app": true,
+  "launch_path": "index.html",
+  "plugin_launch_path": "plugin.html",
+  "plugin_type": "DASHBOARD",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Tue Oct 20 2026 11:01:19 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}

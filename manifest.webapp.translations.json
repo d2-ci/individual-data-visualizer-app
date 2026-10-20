@@ -1,0 +1,218 @@
+[
+  {
+    "locale": "ar",
+    "shortcuts": {},
+    "title": "التحليل المرئي للأحداث",
+    "description": ""
+  },
+  {
+    "locale": "ar_IQ",
+    "shortcuts": {},
+    "title": "التحليل المرئي للأحداث",
+    "description": ""
+  },
+  {
+    "locale": "bn",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ckb",
+    "shortcuts": {},
+    "title": "جاوةروانكراوي ئيفينت",
+    "description": ""
+  },
+  {
+    "locale": "cs",
+    "shortcuts": {},
+    "title": "Vizualizér událostí",
+    "description": ""
+  },
+  {
+    "locale": "da",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "en",
+    "shortcuts": {},
+    "title": "Event Visualizer",
+    "description": "Event visualizer app and plugin"
+  },
+  {
+    "locale": "es",
+    "shortcuts": {},
+    "title": "Visualizador de eventos",
+    "description": ""
+  },
+  {
+    "locale": "es_419",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "fr",
+    "shortcuts": {},
+    "title": "Visualiseur d'événements",
+    "description": ""
+  },
+  {
+    "locale": "hi_IN",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "id",
+    "shortcuts": {},
+    "title": "Visualizer Even",
+    "description": ""
+  },
+  {
+    "locale": "km",
+    "shortcuts": {},
+    "title": "រូបភាពព្រឹត្តិការណ៍",
+    "description": ""
+  },
+  {
+    "locale": "lo",
+    "shortcuts": {},
+    "title": "​ສະ​ພາບ​ກ່ຽວ​ກັບ​ການ​ສະ​ແດງ​ຮູບ​ພາບ",
+    "description": ""
+  },
+  {
+    "locale": "my",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "nb",
+    "shortcuts": {},
+    "title": "Hendelsesvisualizer",
+    "description": ""
+  },
+  {
+    "locale": "ne",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "nl",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "or",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "prs",
+    "shortcuts": {},
+    "title": "نمایش رویداد",
+    "description": ""
+  },
+  {
+    "locale": "ps",
+    "shortcuts": {},
+    "title": "د پېښې انځوروونکی",
+    "description": ""
+  },
+  {
+    "locale": "pt",
+    "shortcuts": {},
+    "title": "Visualizador de Eventos",
+    "description": ""
+  },
+  {
+    "locale": "pt_BR",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ro",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ru",
+    "shortcuts": {},
+    "title": "Визуализатор событий",
+    "description": ""
+  },
+  {
+    "locale": "si",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "sv",
+    "shortcuts": {},
+    "title": "händelse Visualizer",
+    "description": ""
+  },
+  {
+    "locale": "tet",
+    "shortcuts": {},
+    "title": "Vizualizador Eventu",
+    "description": ""
+  },
+  {
+    "locale": "tg",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "uk",
+    "shortcuts": {},
+    "title": "Візуалізатор подій",
+    "description": ""
+  },
+  {
+    "locale": "ur",
+    "shortcuts": {},
+    "title": "ایونٹ ویزوئلائزر",
+    "description": ""
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "shortcuts": {},
+    "title": "Ҳодиса/Тадбирлар Визуализатори",
+    "description": ""
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "shortcuts": {},
+    "title": "Hodisalar vizualizatori",
+    "description": ""
+  },
+  {
+    "locale": "vi",
+    "shortcuts": {},
+    "title": "Biểu đồ Sự kiện",
+    "description": ""
+  },
+  {
+    "locale": "zh",
+    "shortcuts": {},
+    "title": "事件可视化",
+    "description": "事件可视化应用和插件"
+  },
+  {
+    "locale": "zh_CN",
+    "shortcuts": {},
+    "title": "事件可视化",
+    "description": ""
+  }
+]

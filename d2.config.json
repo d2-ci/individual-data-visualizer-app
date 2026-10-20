@@ -1,0 +1,16 @@
+{
+  "type": "app",
+  "name": "individual-data-visualizer",
+  "title": "Individual Data Visualizer",
+  "coreApp": true,
+  "minDHIS2Version": "2.43",
+  "direction": "auto",
+  "pluginType": "DASHBOARD",
+  "viteConfigExtensions": "vite-extensions.config.mts",
+  "version": "101.0.0",
+  "description": "Individual data visualizer app and plugin",
+  "entryPoints": {
+    "app": "index.html",
+    "plugin": "plugin.html"
+  }
+}
