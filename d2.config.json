@@ -2,7 +2,6 @@
   "type": "app",
   "name": "individual-data-visualizer",
   "title": "Individual Data Visualizer",
-  "coreApp": true,
   "minDHIS2Version": "2.43",
   "direction": "auto",
   "pluginType": "DASHBOARD",
