@@ -2,13 +2,13 @@
   {
     "locale": "ar",
     "shortcuts": {},
-    "title": "التحليل المرئي للأحداث",
+    "title": "",
     "description": ""
   },
   {
     "locale": "ar_IQ",
     "shortcuts": {},
-    "title": "التحليل المرئي للأحداث",
+    "title": "",
     "description": ""
   },
   {
@@ -20,13 +20,13 @@
   {
     "locale": "ckb",
     "shortcuts": {},
-    "title": "جاوةروانكراوي ئيفينت",
+    "title": "",
     "description": ""
   },
   {
     "locale": "cs",
     "shortcuts": {},
-    "title": "Vizualizér událostí",
+    "title": "",
     "description": ""
   },
   {
@@ -44,7 +44,7 @@
   {
     "locale": "es",
     "shortcuts": {},
-    "title": "Visualizador de eventos",
+    "title": "",
     "description": ""
   },
   {
@@ -56,7 +56,7 @@
   {
     "locale": "fr",
     "shortcuts": {},
-    "title": "Visualiseur d'événements",
+    "title": "",
     "description": ""
   },
   {
@@ -68,19 +68,19 @@
   {
     "locale": "id",
     "shortcuts": {},
-    "title": "Visualizer Even",
+    "title": "",
     "description": ""
   },
   {
     "locale": "km",
     "shortcuts": {},
-    "title": "រូបភាពព្រឹត្តិការណ៍",
+    "title": "",
     "description": ""
   },
   {
     "locale": "lo",
     "shortcuts": {},
-    "title": "​ສະ​ພາບ​ກ່ຽວ​ກັບ​ການ​ສະ​ແດງ​ຮູບ​ພາບ",
+    "title": "",
     "description": ""
   },
   {
@@ -92,7 +92,7 @@
   {
     "locale": "nb",
     "shortcuts": {},
-    "title": "Hendelsesvisualizer",
+    "title": "",
     "description": ""
   },
   {
@@ -116,19 +116,19 @@
   {
     "locale": "prs",
     "shortcuts": {},
-    "title": "نمایش رویداد",
+    "title": "",
     "description": ""
   },
   {
     "locale": "ps",
     "shortcuts": {},
-    "title": "د پېښې انځوروونکی",
+    "title": "",
     "description": ""
   },
   {
     "locale": "pt",
     "shortcuts": {},
-    "title": "Visualizador de Eventos",
+    "title": "",
     "description": ""
   },
   {
@@ -146,7 +146,7 @@
   {
     "locale": "ru",
     "shortcuts": {},
-    "title": "Визуализатор событий",
+    "title": "",
     "description": ""
   },
   {
@@ -158,13 +158,13 @@
   {
     "locale": "sv",
     "shortcuts": {},
-    "title": "händelse Visualizer",
+    "title": "",
     "description": ""
   },
   {
     "locale": "tet",
     "shortcuts": {},
-    "title": "Vizualizador Eventu",
+    "title": "",
     "description": ""
   },
   {
@@ -176,43 +176,43 @@
   {
     "locale": "uk",
     "shortcuts": {},
-    "title": "Візуалізатор подій",
+    "title": "",
     "description": ""
   },
   {
     "locale": "ur",
     "shortcuts": {},
-    "title": "ایونٹ ویزوئلائزر",
+    "title": "",
     "description": ""
   },
   {
     "locale": "uz_UZ_Cyrl",
     "shortcuts": {},
-    "title": "Ҳодиса/Тадбирлар Визуализатори",
+    "title": "",
     "description": ""
   },
   {
     "locale": "uz_UZ_Latn",
     "shortcuts": {},
-    "title": "Hodisalar vizualizatori",
+    "title": "",
     "description": ""
   },
   {
     "locale": "vi",
     "shortcuts": {},
-    "title": "Biểu đồ Sự kiện",
+    "title": "",
     "description": ""
   },
   {
     "locale": "zh",
     "shortcuts": {},
-    "title": "事件可视化",
-    "description": "事件可视化应用和插件"
+    "title": "个人数据可视化工具",
+    "description": "独立的数据可视化应用和插件"
   },
   {
     "locale": "zh_CN",
     "shortcuts": {},
-    "title": "事件可视化",
+    "title": "",
     "description": ""
   }
 ]
