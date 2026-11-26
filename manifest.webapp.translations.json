@@ -1,0 +1,218 @@
+[
+  {
+    "locale": "ar",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ar_IQ",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "bn",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ckb",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "cs",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "da",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "en",
+    "shortcuts": {},
+    "title": "Individual Data Visualizer",
+    "description": "Individual data visualizer app and plugin"
+  },
+  {
+    "locale": "es",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "es_419",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "fr",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "hi_IN",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "id",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "km",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "lo",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "my",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "nb",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ne",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "nl",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "or",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "prs",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ps",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "pt",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "pt_BR",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ro",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ru",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "si",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "sv",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "tet",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "tg",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "uk",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ur",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "vi",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "zh",
+    "shortcuts": {},
+    "title": "个人数据可视化工具",
+    "description": "独立的数据可视化应用和插件"
+  },
+  {
+    "locale": "zh_CN",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  }
+]
