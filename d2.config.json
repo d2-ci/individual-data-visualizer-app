@@ -6,7 +6,7 @@
   "direction": "auto",
   "pluginType": "DASHBOARD",
   "viteConfigExtensions": "vite-extensions.config.mts",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Individual data visualizer app and plugin",
   "entryPoints": {
     "app": "index.html",
